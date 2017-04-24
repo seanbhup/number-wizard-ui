@@ -25,7 +25,6 @@ public class NumberWizard : MonoBehaviour {
 		min = 1;
 		NextGuess();
 		
-		max = max + 1;
 	}
 	
 	public void GuessLower(){
